@@ -1,4 +1,4 @@
-# Birthday Card Website
+# Birthday Wishes Website
 ## Description
 
 This repository contains the code for a birthday card website. The site includes a password-protected landing page, an animated birthday card, and a gallery of memories. It is designed to celebrate a friend's birthday with interactive elements and personal messages.
